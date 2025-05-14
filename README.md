@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/michetti919" target="_blank"><img src="https://michetti919.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/michetti919" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://michetti919.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
